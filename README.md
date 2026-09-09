@@ -103,16 +103,3 @@ Developed an integrated **Odoo + Flutter** solution for construction project man
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-Python
-   │
-   ├── NumPy
-   ├── Pandas
-   ├── Data Analysis
-   ├── Machine Learning
-   ├── Deep Learning
-   └── PyTorch
-          │
-          └── Artificial Intelligence 🤖
